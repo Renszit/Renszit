@@ -2,8 +2,8 @@
 
 I'm a full-stack web developer with a background in media and graphic design.
 
-- 🔭  I’m currently working on a social media project.
-- 🌱  I’m currently learning more about React.js at Spiced Academy Coding bootcamp.
+- 🔭  I’m currently working on a lyric sharing project in React.
+- 🌱  I’m currently learning more about React and React native.
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I'm a record collector (vinyl)
 - 💬  Ask me about anything! 
