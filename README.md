@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with a background in media and graphic design.
 
-- 🔭  I’m currently working on custom react components
+- 🔭  I’m currently working on reusable react components
 - 🌱  I’m currently learning more about React and React native.
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I'm a record collector (vinyl)
