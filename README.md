@@ -2,8 +2,8 @@
 
 I'm a full-stack web developer with a background in media and graphic design.
 
-- 🔭  I’m currently working on a eCommerce website in React with mongoDB
-- 🌱  I’m currently learning more about mongoDB
+- 🔭  I’m currently working on a eCommerce website in React with materialUI
+- 🌱  I’m currently learning more about React
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I'm a record collector (vinyl)
 - 💬  Ask me about anything! 
