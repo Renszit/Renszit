@@ -1,6 +1,6 @@
 ### My name is Rens 🤗
 
-I'm a junior full-stack web developer with a background in media and graphic design.
+I'm a full-stack web developer with a background in media and graphic design.
 
 - 🔭  I’m currently working on a eCommerce website in React with materialUI
 - 🌱  I’m currently learning more about React
