@@ -12,7 +12,7 @@ I'm a full-stack web developer with a background in media and graphic design.
 ###  ↧ Connect with me! ↧ 
 
 <a href="https://www.linkedin.com/in/rensp/"><img width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
-<a href="mailto:renspennings@gmail.com"><img width="20px" height="20px" src="https://www.pngfind.com/pngs/m/53-537113_png-file-svg-email-svg-icon-free-transparent.png"></a>
+<a href="mailto:renspennings@gmail.com"><img width="20px" height="20px" src="https://www.philippes.com/wp-content/uploads/2017/01/email-icon.png"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renszit&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
