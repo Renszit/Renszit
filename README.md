@@ -2,8 +2,8 @@
 
 I'm a full-stack web developer with a background in media and graphic design.
 
-- 🔭  I’m currently working on a Record collectors social media platform
-- 🌱  I’m currently learning more about Next.js.
+- 🔭  I’m currently working on a Record Collectors and Stores platform.
+- 🌱  I’m currently learning about developing quick front-end applications with Material.ui
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I'm a record collector (vinyl)
 - 💬  Ask me about anything! 
