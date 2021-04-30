@@ -3,7 +3,7 @@
 I'm a full-stack web developer with a background in media and graphic design.
 
 - 🔭  I’m currently working on a Record Collectors and Stores platform.
-- 🌱  I’m currently learning more about SASS and SCSS.
+- 🌱  I’m currently learning more about next.js.
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I'm a record collector (vinyl)
 - 💬  Ask me about anything! 
