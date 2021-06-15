@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with a background in media and graphic design.
 
-- 🔭  I’m currently working on a personal roadtrip blog with interactive elements with Next.js.
+- 🔭  I’m currently working on a personal roadtrip blog with interactive elements with Nuxt.js /vue
 - 🌱  I’m currently learning more about React native.
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I'm a record collector (vinyl)
