@@ -1,9 +1,10 @@
 ### My name is Rens 🤗
 
 I'm a full-stack web developer with a background in media and graphic design.
+Currently very much focussed on learning more on mobile/wearable development
 
-- 🔭  I’m currently working on a personal roadtrip blog with interactive elements with Nuxt.js /vue
-- 🌱  I’m currently learning more about React native.
+- 🔭  I’m currently working on creating more React native applications/ solutions. 
+- 🌱  I’m currently learning more about Flutter & Dart language.
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I'm a record collector (vinyl)
 - 💬  Ask me about anything! 
