@@ -3,11 +3,11 @@
 I'm a full-stack web developer with a background in media and graphic design.
 Currently very much focussed on learning more on mobile/wearable development
 
-- 🔭  I’m currently working on creating more React native applications/ solutions. 
-- 🌱  I’m currently learning more about Flutter & Dart language.
+- 🔭  I’m currently working on several React native applications/ solutions. 
+- 🌱  I’m currently learning more about native mobile development & React native
 - 😄  Pronouns: He/Him
 - ⚡   Fun fact: I'm a record collector (vinyl)
-- 💬  Ask me about anything! 
+- 💬  Ask me anything! 
 
 
 ###  ↧ Connect with me! ↧ 
