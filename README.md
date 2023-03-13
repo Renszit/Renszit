@@ -1,7 +1,6 @@
 ### My name is Rens 🤗
 
 I'm a full-stack web developer with a background in media and graphic design.
-Currently focussed on learning more about backend technologies and web3
 
 - 🔭  I’m currently working on several React native applications/ solutions. 
 - 🌱  I’m currently learning more about React.js with Typescript
