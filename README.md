@@ -23,8 +23,8 @@ I'm a **full-stack developer** with a background in **media and graphic design**
 
 ### 📊 GitHub Stats
 
-![Rens's GitHub stats](https://github-readme-stats.vercel.app/api?username=renspennings&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renspennings&layout=compact&hide_title=true)
+![Rens's GitHub stats](https://github-readme-stats.vercel.app/api?username=renszit&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renszit&layout=compact&hide_title=true)
 
 ---
 
