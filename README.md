@@ -21,10 +21,20 @@ I'm a **full-stack developer** with a background in **media and graphic design**
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![Rens's GitHub stats](https://github-readme-stats.vercel.app/api?username=renszit&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renszit&layout=compact&hide_title=true)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?logo=hive&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ---
 
